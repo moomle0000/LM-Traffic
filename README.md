@@ -20,7 +20,16 @@
 - Open the proxy.txt file and add your proxy
 - **Developer is not responsible for the misuse of Bot.**
 <br>
-
+## Install:
+```
+pip install selenium
+```
+```
+pip install random2
+```
+```
+pip install csv
+```
 ## Features:
 
 - Uses chromedrive
