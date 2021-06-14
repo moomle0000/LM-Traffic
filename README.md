@@ -37,10 +37,10 @@ To use the Bot type the following commands in Terminal:
 git clone https://github.com/LMlol-xyz/LM-Traffic-.git
 ```
 ```
-cd LM-Traffic-
+cd LM-Traffic
 ```
 ```
-python Bot.py
+python LM-Traffic.py
 ```
 
 
