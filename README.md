@@ -46,7 +46,7 @@ python Bot.py
 
 # CONTACT ME:
 
-Feel Free To Open An Issue...
+by LM
 
 ```
                  Instagram id: @LM_moomle
