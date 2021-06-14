@@ -49,7 +49,7 @@ python Bot.py
 by LM
 
 ```
-                 Instagram id: @LM_moomle
+                 Instagram id: www.instagram.com/LM_moomle
 ```
 
 
