@@ -5,9 +5,9 @@
 <p align="center">An open-source Unlimited Website Traffic Generator And YouTube View Generator.</p><br>
 
 
-###############  Coded by      : LM ##############<br>
-##############  Instagram id   : www.instagram.com/LM_moomle ##############<br>
-##############  Github         : www.github.com/moomle0000 ##############<br>
+  Coded by      : LM br>
+  Instagram id   : www.instagram.com/LM_moomle br>
+  Github         : github.com/LMlol-xyz <br>
 
 
 
