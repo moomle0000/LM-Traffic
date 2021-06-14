@@ -3,9 +3,9 @@
 
 </h1>
 <p align="center">An open-source Unlimited Website Traffic Generator And YouTube View Generator.</p>
-  <br align="center">Coded by      : LM </br>
-  <br align="center">Instagram id   : www.instagram.com/LM_moomle </br>
-  <br align="center">Github         : github.com/LMlol-xyz </br>
+  <p align="center">Coded by      : LM </p>
+  <p align="center">Instagram id   : www.instagram.com/LM_moomle </p>
+  <p align="center">Github         : github.com/LMlol-xyz </p>
 
 
 
