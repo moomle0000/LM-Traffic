@@ -2,9 +2,8 @@
 <h1 align="center">LM-Traffic
 
 </h1>
-<p align="center">An open-source Unlimited Website Traffic Generator And YouTube View Generator.</p><br>
-
-
+<p align="center">An open-source Unlimited Website Traffic Generator And YouTube View Generator.</p>
+<br>
   Coded by      : LM br>
   Instagram id   : www.instagram.com/LM_moomle br>
   Github         : github.com/LMlol-xyz <br>
