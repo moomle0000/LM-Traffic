@@ -15,9 +15,9 @@
 
 - The script requires working network connection to work.
 - The script requires chromedriver.
-- Good For CPV/CPM Ads.(Only if it can't identify the bot.)
-- Good For YouTube View Increaser.(Only if it can't be identified.)
-- This script is only for educational purposes.
+- Open the keyword.txt file and add your keyword
+- Open the urls.txt file and add your urls
+- Open the proxy.txt file and add your proxy
 - **Developer is not responsible for the misuse of Bot.**
 <br>
 
