@@ -40,7 +40,7 @@ def web():
 
         PROXY = proxy['ip'] + ':' + proxy['port']
         
-        urls1 = ["https://lmlol.xyz","https://bot.lmlol.xyz","https://text.lmlol.xyz"]
+        urls1 = ["https://example1.com","https://example2.com","https://example3.com"]
         urls = random.choice(urls1)
         ##  urls  ##
         print("[+] URL : "+urls)
@@ -63,7 +63,7 @@ def web():
         options.add_argument("window-size=1400,600")
         headers = {'referer':'https://google.com/'}
         ##bot.lmlol.xyz##
-        if "https://bot.lmlol.xyz" in urls: 
+        if "https://example1.com" in urls: 
             with webdriver.Chrome(options=options , headers=headers) as driver:
                 driver.get(urls)
                 driver.implicitly_wait(5)
@@ -72,7 +72,7 @@ def web():
                     print()
                 driver.quit 
         ##lmlol.xyz##
-        if "https://lmlol.xyz" in urls: 
+        if "https://example2.com" in urls: 
             with webdriver.Chrome(options=options) as driver:
                 driver.get(urls)
                 driver.implicitly_wait(5)
@@ -81,7 +81,7 @@ def web():
                     print()
                 driver.quit  
         ##text.lmlol.xyz##
-        if "https://text.lmlol.xyz" in urls: 
+        if "https://example3.com" in urls: 
             with webdriver.Chrome(options=options) as driver:
                 driver.get(urls)
                 driver.implicitly_wait(5)
